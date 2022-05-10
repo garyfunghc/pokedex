@@ -1,0 +1,36 @@
+.cardContainer {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+}
+
+.placeholder {
+    width: 100px;
+    opacity: 0;
+}
+
+.card {
+    padding: 5px;
+    text-align: center;
+    opacity: 0.5;
+    box-sizing: border-box;
+}
+
+.cardActive {
+    opacity: 1;
+}
+
+.thumbnail {
+
+}
+
+.name {
+    font-size: 1.5em;
+    font-weight: bold;
+    display: none;
+}
+
+.num {
+
+}
+
