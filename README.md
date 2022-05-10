@@ -5,6 +5,8 @@ This Poedex project is Web application base on NextJS
 </p>
 </br>
 
+## [Demo](https://garyfunghc.github.io/pokedex/)
+
 ## Tech stack
 - NextJS
 - Typescript
